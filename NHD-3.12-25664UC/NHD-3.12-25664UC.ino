@@ -1,7 +1,7 @@
 /*
 / Program for writing to NHD-3.12-25664 OLED with SSD1322 controller with Serial Interface
 / This code is written for the Arduino Mega 2560 using Serial Interface
-/
+/ Please make sure 3.3V regulator is used for proper operation
 / Newhaven Display invests time and resources providing this open source code,
 / Please support Newhaven Display by purchasing products from Newhaven Display!
 
